@@ -1,0 +1,1 @@
+Инициализация Maven-проекта: Java 21, JUnit 5, .gitignore
